@@ -2,7 +2,7 @@
 
 Summarize the project and what problem it was solving.
   
-  This program is used to calculate investment returns over a period of time. It is meant to be used as an eduactional tool for a bank to inform prospective clients   on their potential returns if they invested a certain amount of capital over a set interest rate compounded yearly.
+  This program is used to calculate investment returns over a period of time. It is meant to be used as an educational tool for a bank to inform prospective clients   on their potential returns if they invested a certain amount of capital over a set interest rate compounded yearly.
 
 What did you do particulary well?
   
